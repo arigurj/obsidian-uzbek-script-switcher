@@ -1,0 +1,10 @@
+{
+	"id": "uzbek-script-switcher",
+	"name": "Uzbek Script Switcher",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Converts selected text between Uzbek Latin and Cyrillic scripts — fixes wrong script with one click.",
+	"author": "arigurj",
+	"authorUrl": "https://github.com/arigurj",
+	"isDesktopOnly": false
+}
