@@ -51,7 +51,7 @@ npm run build # production build
 
 ## Supported characters
 
-All Uzbek Latin letters including digraphs `gʻ` (ғ), `oʻ` (ў), and all Cyrillic equivalents.
+All Uzbek Latin letters including digraphs `gʻ` (ғ), `oʻ` (ў), `sh` (ш), `ch` (ч), and all Cyrillic equivalents.
 
 ## License
 
@@ -80,5 +80,31 @@ MIT © arigurj
 Доступен в **Settings → Community plugins → Browse** как **Uzbek Script Switcher**.
 
 ### Лицензия
+
+MIT © arigurj
+
+---
+
+## Oʻzbekcha tavsif
+
+[Obsidian](https://obsidian.md/) uchun plagin — matnni lotin va kirill yozuvlari oʻrtasida konvertatsiya qiladi.
+
+### Muammo
+
+Oʻzbek tiki ikki yozuv tizimidan foydalanadi — lotin va kirill. Notoʻgʻri yozuvda yozdingizmi? Bu plagin bir tugma bosishda tuzatadi.
+
+### Buyruqlar
+
+| Buyruq | Tavsif |
+|--------|--------|
+| **Convert (Latin → Cyrillic)** | Majburiy: Lotin → Kirill |
+| **Convert (Cyrillic → Latin)** | Majburiy: Kirill → Lotin |
+| **Convert script (auto)** | Avtomatik aniqlash |
+
+### Oʻrnatish
+
+**Settings → Community plugins → Browse** da **Uzbek Script Switcher** sifatida mavjud.
+
+### Litsenziya
 
 MIT © arigurj
